@@ -1,0 +1,12 @@
+com\projeto\literalura\service\ConvertData.class
+com\projeto\literalura\modelos\ResponseDT0.class
+com\projeto\literalura\modelos\Autor.class
+com\projeto\literalura\principal\Principal.class
+com\projeto\literalura\service\UtilitarioAPI.class
+com\projeto\literalura\modelos\AutorData.class
+com\projeto\literalura\modelos\LivroData.class
+com\projeto\literalura\repositorio\repositorioLivros.class
+com\projeto\literalura\service\UsoAPI.class
+com\projeto\literalura\modelos\Livro.class
+com\projeto\literalura\service\ConvertDataInterface.class
+com\projeto\literalura\LiteraluraApplication.class
